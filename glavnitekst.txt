@@ -4,5 +4,6 @@ Tri
 Cetiri
 Pet
 Sest 
-Sedam
-X Y Z
+Sedam OSAM
+TRIDESET
+CETRDESET
