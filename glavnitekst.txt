@@ -5,3 +5,4 @@ Cetiri
 Pet
 Sest 
 Sedam
+X Y Z
